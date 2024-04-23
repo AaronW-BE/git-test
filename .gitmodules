@@ -1,3 +1,6 @@
 [submodule "git-test-sub"]
 	path = git-test-sub
 	url = git@github.com:AaronW-BE/git-test-sub.git
+[submodule "test-sub"]
+	path = test-sub
+	url = git@github.com:AaronW-BE/git-test-sub.git
